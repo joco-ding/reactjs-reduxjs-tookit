@@ -20,5 +20,4 @@ Semua file yang dibutuhkan untuk di-unggah ke server ada di folder build
 
 Video tutorial-nya bisa dilihat di [youtube](https://youtu.be/CEJmSeHXc6I). Jika ada yang ingin ditanyakan silakan tinggalkan di 
 kolom komentar pada video nya.
-# reactjs-reduxjs-tookit
-# reactjs-reduxjs-tookit
+
